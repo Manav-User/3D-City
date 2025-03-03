@@ -1,1 +1,1 @@
-It is virutal represetation of city buildings.
+It is virtual representation of city buildings.
